@@ -1,6 +1,6 @@
 # AWS::Glue::Database PrincipalPrivileges<a name="aws-properties-glue-database-principalprivileges"></a>
 
-the permissions granted to a principal
+The permissions granted to a principal.
 
 ## Syntax<a name="aws-properties-glue-database-principalprivileges-syntax"></a>
 
